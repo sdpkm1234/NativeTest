@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NativeTest</string>
+    <string name="name">John David</string>
+    <string name="designation">Host</string>
+    <string name="options">TODO</string>
+    <string name="img">TODO</string>
+    <string name="comments">Comments</string>
+</resources>
